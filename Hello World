@@ -1,0 +1,9 @@
+//The most easy program code in every language. The Hello World//
+public class GFG {
+       public static void(String args[])
+       {
+       System.out.println("Hello World");
+       }
+}
+
+//Output: Hello World
